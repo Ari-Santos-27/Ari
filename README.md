@@ -13,7 +13,6 @@ Este é um exemplo de documentação simples usando.
 
 Aqui está um exemplo de código Python:
 
-```python
 def saudacao(nome):
     return f"Olá, {nome}!"
 
