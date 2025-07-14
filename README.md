@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este é um exemplo de documentação simples usando.
+Este é um exemplo de documentação simples usand
 
 # Topicos abordados:
 1. Java
